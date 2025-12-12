@@ -19,7 +19,7 @@ It introduces the three major analytical views:
 - **Parameter & Time Series View**
 
 ### 📷 *Screenshot*
-![Home Page](https://drive.google.com/file/d/1TQ7ZohZCX1bIetve6Yt5cOyju7mjqg3q/view?usp=sharing)
+![Home Page]("C:\Users\Pavan\OneDrive\Desktop\Home.png")
 
 ---
 
