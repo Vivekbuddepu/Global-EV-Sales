@@ -34,7 +34,7 @@ This report analyzes:
 This page helps identify **market growth patterns, shifts, and regional opportunities**.
 
 ### 📷 *Screenshot*
-![Region & Category Trends](https://drive.google.com/file/d/14t--TVlamhP0JAAeYwEBp6DpWwyNkKK1/view?usp=drive_link)
+![Region & Category Trends](./Dashboards/Region.png)
 
 ---
 
@@ -48,7 +48,7 @@ This report provides insights on:
 This page helps in understanding **technology adoption, efficiency trends, and EV mode behaviour**.
 
 ### 📷 *Screenshot*
-![Powertrain & Mode Insights](https://drive.google.com/file/d/1A2i7HS0NHIWYnZCTLrDMx9VLWiFbH_R7/view?usp=drive_link)
+![Powertrain & Mode Insights](./Dashboards/Powertrain.png)
 
 ---
 
@@ -65,7 +65,7 @@ This report offers detailed time-series analytics on:
 This helps identify **long-term behavioural patterns and parameter impact on EV adoption**.
 
 ### 📷 *Screenshot*
-![Parameter & Time Series Analysis](https://drive.google.com/file/d/1uJ0pTgi2T8T-Cs9nkDmFFa-KB8haWDCU/view?usp=drive_link)
+![Parameter & Time Series Analysis](./Dashboards/Parameter.png)
 
 ---
 
@@ -77,7 +77,7 @@ A supporting analytics page used to show:
 Improves user interaction with enhanced hover insights.
 
 ### 📷 *Screenshot*
-![Tooltip](https://drive.google.com/file/d/1czk6zGE7FMIzk9eXPwhgjQ9jmIOIm93H/view?usp=drive_link)
+![Tooltip](./Dashboards/tooltip.png)
 
 ---
 
