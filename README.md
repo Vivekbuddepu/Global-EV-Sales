@@ -19,7 +19,7 @@ It introduces the three major analytical views:
 - **Parameter & Time Series View**
 
 ### 📷 *Screenshot*
-![Home Page]("C:\Users\Pavan\OneDrive\Desktop\Home.png")
+![Home Page](./dashboards/Home.png)
 
 ---
 
