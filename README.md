@@ -97,6 +97,13 @@ Improves user interaction with enhanced hover insights.
 - Excel / CSV  
 - Power Query  
 
+--- 
+
+# 🔗 Live Power BI Dashboard
+
+You can explore the fully interactive Power BI dashboard using the link below:
+
+👉 **Live Report:** [https://app.powerbi.com/view?r=eyJrIjoiMzczOWQ2YTUtMGYwNy00YzlhLThkZmUtNjA4ZWUxNzdhNmQ2IiwidCI6IjFhMWNjYzlkLTkzNWMtNDhhNS1hMWU0LTk1ZjMwMzNiMDA0NCJ9)
 ---
 
 # 🙌 Acknowledgements
